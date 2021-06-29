@@ -34,9 +34,9 @@ function Saat() {
     }
 
     //daha sonra saat dakika ve saniye için  koşulları yazdık
-    h = h < 10 ? "0" + h : h;
-    m = m < 10 ? "0" + m : m;
-    s = s < 10 ? "0" + s : s;
+    h = h < 10 ? "0" + h : h; // saat 10 dan küçükse yada 0 sa saate saat ekle
+    m = m < 10 ? "0" + m : m; //dakika 10 dan küçükse yada 0 sa dakikaya dakika ekle
+    s = s < 10 ? "0" + s : s; //saniye 10 dan küçükse yada 0 sa saniyeye saniye ekle
 
     var time = h + ":" + m + ":" + s + " " + session; //burda ise zaman değerlerinin ekrana yazım şeklini yazdırdık
     document.getElementById("tarih").innerText = time;
