@@ -1,7 +1,7 @@
 # Patika NodeJs Backend Patikasi Ödevleri
 
 ## Proje Amacı 
-Yazacağınız Javascript dosyasında Date methodunu kullanacaksınız. Detaylı bilgi için tıklayınız.
+Yazacağınız Javascript dosyasında Date methodunu kullanacaksınız. 
 
 Gün olarak aldığınız değeri string olarak göstermeniz gerekmektedir. (İpucu: 1 = Pazartesi)
 
