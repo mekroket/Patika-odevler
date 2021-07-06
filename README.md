@@ -1,6 +1,6 @@
 # Patika NodeJs Backend Patikasi Ödevleri
 
-## Proje Amacı 
+## Proje 1 Amacı
 Yazacağınız Javascript dosyasında Date methodunu kullanacaksınız. 
 
 Gün olarak aldığınız değeri string olarak göstermeniz gerekmektedir. (İpucu: 1 = Pazartesi)
@@ -16,4 +16,14 @@ Kullanıcıdan alınan ad direkt olarak ekrana yazılmalıdır.
 # Olması Gereken ;
 ```
 http://cengizcmataraci.me/javascriptclock/
+```
+
+## Proje 2 Amacı
+Günlük hayatta yapacağımız işleri aklımızda tutmak oldukça zor oluyor değil mi? Parmağınıza ip bağlamak da bir çözüm getirmiyorsa bir yapılacaklar listesi hazırlamayı düşünmeniz gerekebilir. İnanır mısınız Kodluyoruz tam da bu probleminiz için harika bir çözüm ve harika bir ödevle geldi, karşınızda Javascript To Do List! Javascript ile bir yapılacaklar listesi yapmanızı istiyoruz. Sizlere yine bir temel verip bunun js dosyasını oluşturmanızı istiyoruzır.
+</br>
+
+
+# Olması Gereken ;
+```
+https://cengizcmataraci.me/javascripttodolist/
 ```
