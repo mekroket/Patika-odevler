@@ -1,6 +1,6 @@
 # Patika NodeJs Backend Patikasi  SQL Ödevleri
 
-## Proje 1 Amacı
+## Proje 2 Amacı
 1. film tablosunda bulunan tüm sütunlardaki verileri replacement cost değeri 12.99 dan büyük eşit ve 16.99 küçük olma koşuluyla
 sıralayınız ( BETWEEN - AND yapısını kullanınız.)
 2. actor tablosunda bulunan first_name ve last_name sütunlardaki verileri first_name 'Penelope' veya 'Nick' veya 'Ed' değerleri olması
