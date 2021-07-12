@@ -29,3 +29,5 @@ WHERE first_name = 'Mary'
 5-SELECT * FROM  film
 WHERE  length <50 and  not (rental_rate = 2.99 or rental_rate = 4.99)
 ```
+
+
